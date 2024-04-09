@@ -1,9 +1,10 @@
 # Hvordan aktivere SSH på Raspberry Pi 4
 ---
 ## Aktivere SSH via Desktop:
-1. Klikk på Raspberry Pi-ikonet på skrivebordet. Naviger til **Innstillinger**, og klikk deretter på **Raspberry Pi-konfigurasjon**.
-2. Klikk på fanen **Grensesnitt** og velg **Aktiver** i alternativene for SSH.
-3. Klikk **OK**.
+1. Klikk på Raspberry Pi-ikonet på skrivebordet.
+2. Naviger til **Innstillinger**, og klikk deretter på **Raspberry Pi-konfigurasjon**.
+3. Klikk på fanen **Grensesnitt** og velg **Aktiver** i alternativene for SSH.
+4. Klikk **OK**.
 
 ## Aktivere SHH via terminalen:
 - Åpne Raspberry Pi-terminalen.
