@@ -14,7 +14,7 @@
 - Velg **Enter** for å bekrefte, og deretter klikker du på **Fullfør** for å avslutte raspi-config.
 - Lukk terminalvinduet.
 ---
-## Hvis du installerer Raspberry Pi for første gang, følg disse trinnene for å aktivere SSH:
+## Aktivere SSH via installasjon av Raspberry Pi for første gang:
 1. Naviger til **Avanserte alternativer** i Raspberry Pi Imager.
 2. Klikk på avmerkingsboksen ved siden av **Aktiver SSH**.
 3. Klikk **Lagre**, og skriv operativsystemet til lagringsenheten du velger.
