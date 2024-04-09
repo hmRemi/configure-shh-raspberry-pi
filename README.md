@@ -4,7 +4,7 @@ For å aktivere SSH så må du først koble en skjerm til din Raspberry Pi og f�
 1. Klikk på Raspberry Pi-ikonet på skrivebordet. Naviger til **Innstillinger**, og klikk deretter på **Raspberry Pi-konfigurasjon**.
 2. Klikk på fanen **Grensesnitt** og velg **Aktiver** i alternativene for SSH.
 3. Klikk **OK**.
-
+<br>
 Du kan også aktivere SHH via terminalen:
 - Åpne Raspberry Pi-terminalen.
 - Skriv inn kommandoen: `sudo raspi-config`
